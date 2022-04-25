@@ -1,0 +1,29 @@
+{
+  "sucess":{
+    "name": "Cleison Silva",
+    "email": "cleison.a.silva@gmail.com",
+    "password": "123456"
+  },
+
+  "email_dup":{
+    "is_provider": true,
+    "email": "joaomiguel@samuraibs.com",
+    "name": "João Miguel",
+    "password": "pwd123"
+  },
+
+  "email_inv":{
+    "name": "Elizabeth Olsen",
+    "email": "liza.yahoo.com",
+    "password": "pwd123"
+  },
+
+  "short_password":{
+    "name": "JAson Friday",
+    "email": "jason@gmail.com",
+    "password": null
+  }
+
+}
+
+  
