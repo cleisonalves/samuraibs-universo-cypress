@@ -1,7 +1,9 @@
 exports.el = {
-    name: 'input[placeholder^="Nome"]',
-    email: 'input[placeholder$="email"]',
-    password: 'input[placeholder*="senha"]',
+    title: ('h1', 'Faça seu cadastro'),
+    name: 'input[placeholder="Nome completo"]',
+    email: 'input[placeholder="Seu melhor email"]',
+    password: 'input[placeholder="Sua senha secreta"]',
     signpButton: ('button', 'Cadastrar'),
     
 }
+
